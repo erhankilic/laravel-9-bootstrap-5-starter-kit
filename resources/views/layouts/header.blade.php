@@ -23,7 +23,7 @@
                         <img src="https://github.com/mdo.png" alt="{{ Auth::user()->name }}" class="rounded-circle"
                              width="32" height="32">
                     </a>
-                    <ul class="dropdown-menuall" aria-labelledby="dropdownUser1" style="">
+                    <ul class="dropdown-menu" aria-labelledby="dropdownUser1" style="">
                         <li><a class="dropdown-item" href="#">New project...</a></li>
                         <li><a class="dropdown-item" href="#">Settings</a></li>
                         <li><a class="dropdown-item" href="#">Profile</a></li>
